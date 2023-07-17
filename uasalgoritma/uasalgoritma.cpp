@@ -84,7 +84,7 @@ int main() {
 // 3. stack cara menyimpan data yang last in first out, queu data linear dimana elemen elemennya disisipkan di ujung belakang dan di hapus dari depan
 // 4. stack di gunakan saat kita ingin menampilkan data yang terakhir sebagai data yang pertama keluar.
 // 5 a. 4
-// 5 b. in =salah
-// 5. preorder = benar
+// 5 b.in =salah
+// 5.  preorder = benar
 //     post benar
 
